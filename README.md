@@ -23,8 +23,8 @@
 
   <div>
     <a href="https://github.com/oam-victor/">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=oam-victor&show_icons=true&theme=true&custom_title=Github%20Status&hide=issues&hide_border=true&bg_color=ffffff00&title_color=f65800&icon_color=32ff7b&text_color=FF7B3"/>
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oam-victor&layout=compact&langs_count=7&theme=true&custom_title=Github%20Status&hide=issues&hide_border=true&bg_color=ffffff00&title_color=f65800&icon_color=32ff7b&text_color=FF7B3"/>      
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=oam-victor&show_icons=true&theme=true&custom_title=Github%20Status&hide=issues&hide_border=true&bg_color=ffffff00&title_color=f65800&icon_color=32ff7b&text_color=FF7B3"/>
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oam-victor&layout=compact&langs_count=7&theme=true&custom_title=Github%20Status&hide=issues&hide_border=true&bg_color=ffffff00&title_color=f65800&icon_color=32ff7b&text_color=FF7B3"/>      
   </div>
   
 
