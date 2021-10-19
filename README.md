@@ -1,15 +1,14 @@
 
-# Hello, I'm Victor Melo
+# VICTOR MELO
 
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+  <span> 
+    
+  <a href="https://www.linkedin.com/in/victor-melo-odam/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="30px"></a> 
+  <a href="https://www.linkedin.com/in/victor-melo-odam/" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" height="30px" alt="victor.odam@gmail.com"></a> 
 
-  <div>
-    <a href="https://github.com/oam-victor/">
-    <img width="600em" src="https://github-readme-stats.vercel.app/api?username=oam-victor&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img width="600em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oam-victor&layout=compact&langs_count=7&theme=dracula"/>
-  </div>
-  
-  ## Technologies
+  </span>
+
+  ### Technologies
   
   <div>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="30px"/>
@@ -18,11 +17,15 @@
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="30px"/>
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="30px"/>   
   </div>
- 
- ## My Contact
- 
-  <div> 
-    
-  <a href="https://www.linkedin.com/in/victor-melo-odam/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="30px"></a> 
-  
+
+<br/>
+
+  <div>
+    <a href="https://github.com/oam-victor/">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=oam-victor&show_icons=true&theme=true&custom_title=Github%20Status&hide=issues&hide_border=true&bg_color=ffffff00&title_color=f65800&icon_color=32ff7b&text_color=FF7B3"/>
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oam-victor&layout=compact&langs_count=7&theme=true&custom_title=Github%20Status&hide=issues&hide_border=true&bg_color=ffffff00&title_color=f65800&icon_color=32ff7b&text_color=FF7B3"/>      
   </div>
+  
+
+ 
+
