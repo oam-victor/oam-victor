@@ -21,8 +21,8 @@
 
   <div>
     <a href="https://github.com/oam-victor/">
-    <img height="150" align="left" src="https://github-readme-stats.vercel.app/api?username=oam-victor&show_icons=true&theme=true&custom_title=Github%20Status&hide=issues&hide_border=true&bg_color=ffffff00&title_color=FC5C00&icon_color=F1ED0B&text_color=F7F7F1"/>
-    <img height="150" align= "right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oam-victor&layout=compact&langs_count=7&theme=true&custom_title=Github%20Status&hide=issues&hide_border=true&bg_color=ffffff00&title_color=FC5C00&icon_color=32ff7b&text_color=F7F7F1"/>      
+    <img height="150" align="left" src="https://github-readme-stats.vercel.app/api?username=oam-victor&show_icons=true&theme=true&custom_title=Github%20Status&hide=issues&hide_border=true&bg_color=ffffff00&title_color=FC5C00&icon_color=F1ED0B&text_color=CCC8C8"/>
+    <img height="150" align= "right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oam-victor&layout=compact&langs_count=7&theme=true&custom_title=Github%20Status&hide=issues&hide_border=true&bg_color=ffffff00&title_color=FC5C00&icon_color=32ff7b&text_color=CCC8C8"/>      
   </div>
   
 
