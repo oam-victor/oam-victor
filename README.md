@@ -16,7 +16,7 @@
   </em>
 </p>
  
-- 📚 Studying Full Stack Development in <a href="https://www.codecademy.com/learn"> Codeacademy </a>
+- 📚 Studying Full Stack Development in <a href="https://www.codecademy.com/learn" target="_blank"> Codeacademy </a>
 - 📫 My email: victor.odam@gmail.com
 
   
