@@ -1,5 +1,16 @@
 
-# Victor Melo
+<h1 align='center'> Welcome to my profile. </h1>
+
+### 👋 About me:
+
+<p>
+  <em>
+    My name is Victor, <strong>I'm a Front-end developer</strong>
+  </em>
+</p>
+ 
+- 📚 Studying Front End Development in <a href="https://www.codecademy.com/learn"> Codeacademy </a>
+- 📫 My email: victor.odam@gmail.com
 
   <span> 
     
