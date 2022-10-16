@@ -1,7 +1,14 @@
 
 <h1 align='center'> Welcome to my profile. </h1>
+<span> 
+    
+  <a href="https://www.linkedin.com/in/victor-melo-odam/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="30px"></a> 
 
+  </span>
+  
 ### 👋 About me:
+
+
 
 <p>
   <em>
@@ -9,15 +16,10 @@
   </em>
 </p>
  
-- 📚 Studying Front End Development in <a href="https://www.codecademy.com/learn"> Codeacademy </a>
+- 📚 Studying Full Stack Development in <a href="https://www.codecademy.com/learn"> Codeacademy </a>
 - 📫 My email: victor.odam@gmail.com
 
-  <span> 
-    
-  <a href="https://www.linkedin.com/in/victor-melo-odam/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="30px"></a> 
-
-  </span>
-
+  
   ### Familiar with:
   
   <div>
