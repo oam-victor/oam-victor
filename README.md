@@ -12,7 +12,7 @@
 
 <p>
   <em>
-    My name is Victor, <strong>I'm a Front-end developer</strong>
+    My name is Victor, <strong>I'm a MERN Stack developer</strong>
   </em>
 </p>
  
